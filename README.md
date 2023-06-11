@@ -17,9 +17,6 @@ Skills: C# / ASP.NET Framework / ASP.NET Core / HTML / CSS / EntityFramework / J
 <a href="http://t.me/S0LUT1ON">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href="mailto:tima.tuhvatshin@mail.ru">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
 </div>
 <div id="header" align="center">
 
