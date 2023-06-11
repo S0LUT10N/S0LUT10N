@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![I am a 4th year student of Kazan Federal University](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-👨‍🎓 I am a 4th year student of Kazan Federal University /n
+👨‍🎓 I am a 4th year student of Kazan Federal University 
 🐢 I am 21 years old
 👷‍♂️ I really want to find a job
 🤑 I'm ready to work for cookies
