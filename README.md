@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🤑 I'm ready to work for cookies
 
-Skills: C# / ASP.NET Framework / ASP.NET Core / HTML / CSS / EntityFramework
+Skills: C# / ASP.NET Framework / ASP.NET Core / HTML / CSS / EntityFramework / Javascript
 
 <div id="badges">
 <a href="http://t.me/S0LUT1ON">
@@ -21,12 +21,6 @@ Skills: C# / ASP.NET Framework / ASP.NET Core / HTML / CSS / EntityFramework
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 </div>
-Telegram-blue?style=for-the-badge&logo=telegram&..
-shields.io
-Telegram-blue?style=for-the-badge&logo=telegram&..
-img.shields.io
-Gmail-red?style=for-the-badge&logo=gmail&..
-img.shields.io
 <div id="header" align="center">
 
 
